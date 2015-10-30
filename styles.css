@@ -1,0 +1,35 @@
+body {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+.countrySection {
+	width: 100%;
+	display: flex;
+}
+
+header {
+	width: 100%;
+	display: flex;
+	margin-bottom: 10px;
+}
+
+.leftColumn {
+	width: 33%;
+	background-color: green;
+	text-align: center;
+}
+
+.centerColumn {
+	width: 33%;
+	background-color: blue;
+	
+}
+
+.rightColumn {
+	width: 33%;
+	background-color: yellow
+
+	
+}
